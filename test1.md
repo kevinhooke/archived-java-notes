@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # test header
 
 test body
