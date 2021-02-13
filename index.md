@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: post
 ---
-<html>
-<body>
-test index.html
-</body>
-</html>
+# title
+
+body text
+
+more text
