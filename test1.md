@@ -1,14 +1,8 @@
 ---
 layout: default
 ---
-# test header
+# test header2
 
-test body
+body text2
 
-## subsection
-
-more text
-
-### subsubsection
-
-even more text
+more text2
