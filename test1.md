@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+{% include_relative header.html %}
+
 # test header1
 
 body text2
