@@ -1,3 +1,6 @@
 markdown: GFM
 theme: jekyll-theme-slate
 baseurl: /
+plugins:
+- jekyll-gfm-admonitions
+- jekyll-optional-front-matter
